@@ -10,7 +10,7 @@ HexCooler is a laptop cooling stand project designed with a hexagonal pattern.
 > Also, I assume you have basic knowledge about soldering and you have access to a soldering setup.
 
 > [!tip]
-> I don't kive you links as I assume you can find the best offer yourself :smile:
+> I don't give you links as I assume you can find the best offer yourself :smile:
 
 > [!tip]
 > I did most purchases in PLN, so USD prices are approximate.
