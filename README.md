@@ -26,7 +26,7 @@ HexCooler is a laptop cooling stand project designed with a hexagonal pattern.
 > I also used some universal pins to connect my fan to the PCB. You can alternatively use goldpins or (not recommended) cut the plug and solder the fan wires directly to the PCB.
 
 > [!note]
-> As this is V1 I ordered onl 2 assembled boards from JLCPCB. If you are going to build multiple coolers, it is theoretically possible to cut costs by ordering more assembled boards.
+> As this is V1 I ordered only 2 assembled boards from JLCPCB. If you are going to build multiple coolers, it is theoretically possible to cut costs by ordering more assembled boards.
 > Also, if you have advanced soldering skills, you can order unassembled boards + components (much cheaper) and solder them yourself.
 > Also I didn't print all the filament I bought - you can save some money there.
 
