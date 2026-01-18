@@ -19,7 +19,7 @@ HexCooler is a laptop cooling stand project designed with a hexagonal pattern.
 |------------------|----------|-------------|-------------|----------------|
 | Filaments (PLA)  | 2 * 1 kg (one black and one red - pick whatever colors you want) | 85 | 24 |  |
 | Be Quiet! Pure Wings 3 140mm 3-Pin black | 1 | 50 | 14 |  |
-| Hex Cooler V1 PCB on [JLCPCB](https://jlcpcb.com/) | 2 assembled + 3 printed boards | 73.20 | 20 | This is what I paid for USD in my bank. In reality, it was a bit cheaper on JLCPCB (as some of those USD left on my currency account) |
+| Hex Cooler V1 PCB on [JLCPCB](https://jlcpcb.com/) (see [project file](./hexcooler_v1.epro)) | 2 assembled + 3 printed boards | 73.20 | 20 | This is what I paid for USD in my bank. In reality, it was a bit cheaper on JLCPCB (as some of those USD left on my currency account) |
 | **Total** | 208.20 | 58 |  |
 
 > [!note]
