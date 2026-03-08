@@ -5,7 +5,7 @@ HexCooler is a laptop cooling stand project designed with a hexagonal pattern.
 > [!note]
 > The BOM is work in progress. It is possible that some materials are missing right now.
 
-> [!imporant]
+> [!important]
 > I assume you have basic knowledge about 3D printing as well as access to a 3D printer.
 > Also, I assume you have basic knowledge about soldering and you have access to a soldering setup.
 
