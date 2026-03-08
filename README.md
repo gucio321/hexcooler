@@ -32,6 +32,7 @@ HexCooler is a laptop cooling stand project designed with a hexagonal pattern.
 
 # How to build
 
+1. Chose a PCB version (tl;dr: [v2](./hexcooler_v2.epro) is recommended) see [#PCB-versions]
 1. Order all the parts from the BOM. Note that delivery time especially for PCBs may be long.
 2. Install FreeCAD
 3. Download this repository
@@ -45,6 +46,16 @@ HexCooler is a laptop cooling stand project designed with a hexagonal pattern.
 7. Print all the parts
 8. Assemble the parts together (you can use some glue if you need but I didn't use any and it works for me)
 9. Its done! GG!
+
+## PCB versions
+
+At this point, there are two variants of the PCB.
+The first one (v1) is a really minimalistic design with only one fan connector and no mounting holes (what makes it really uncomfortable to use).
+If you want this version, you should design your own BoardHandler part (as one in the project is really bad and because v2 exists I'm not going to fix it).
+If you really want to use the project design, take a look at models from commit 1aaabbce1ec494832992ce61475a56b12ce3519e
+
+V2 is a much better design imao. It includes 4 12V fan connectors and in addition 3 5V connectors for e.g. some leds (not tested yet). It also includes mounting holes which makes it that plugging the
+USB cable is not a nightmare anymore. I highly recommend using this version, especially that it is not more expensive than v1 (as the price of PCB on JLCPCB is mostly determined by assembly costs and not size of the PCB).
 
 # Status
 WIP :smile:
